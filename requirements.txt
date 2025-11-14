@@ -1,0 +1,21 @@
+"""
+Requirements file for the Quantum Ising ZNE project.
+
+Install with: pip install -r requirements.txt
+"""
+
+# Core dependencies
+numpy>=1.20.0
+matplotlib>=3.3.0
+scipy>=1.7.0
+
+# Quantum computing library
+cqlib>=0.1.0
+
+# Optional: Machine learning (comment out if not needed)
+tensorflow>=2.8.0
+
+# Development dependencies (optional)
+# jupyter>=1.0.0
+# notebook>=6.0.0
+# pytest>=6.0.0
