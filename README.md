@@ -1,6 +1,4 @@
-# Quantum Ising Model with Zero Noise Extrapolation (ZNE) and Machine Learning Optimization
-
-一个用于量子伊辛模型仿真的完整工程，实现了零噪声外推(ZNE)技术和机器学习优化。
+# Quantum Ising Model with Nerual Network Zero Noise Extrapolation (NN-ZNE)
 
 ## 项目概述
 
@@ -273,3 +271,4 @@ logging.basicConfig(level=logging.DEBUG)
 - 项目维护者: NUAA 量子信息与量子调控研究团队
 - 创建日期: 2025年8月
 - 版本: 1.0.0
+
